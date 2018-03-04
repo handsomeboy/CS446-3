@@ -107,6 +107,7 @@ class LinearMRF(object):
         #######################
         #IMPLEMENT THIS METHOD#
         #######################
+        
         return None
 
     def get_pairwise_features(self):
